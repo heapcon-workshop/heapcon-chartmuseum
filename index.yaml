@@ -1,13 +1,23 @@
 apiVersion: v1
 entries:
+  heapcon-conf-app-chart:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-09-17T13:42:42.347965+02:00
+    description: Helm Chart for Heapcon Workshop
+    digest: f5d710490374e6ccfdad88aa7e47947fc9170f3a02ced35b5071bb18c566e648
+    name: heapcon-conf-app-chart
+    urls:
+    - https://github.com/phoenix086/heapcon-chartmuseum/heapcon-conf-app-chart-1.0.0.tgz
+    version: 1.0.0
   helm-chart-test:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-09-16T21:34:39.590256+02:00
+    created: 2019-09-17T13:42:42.348607+02:00
     description: A Helm chart for Kubernetes
     digest: f2491487cd43a69c0c33ce0802c67a7711d2cbc8662b1f04d7f15efd1fa1c497
     name: helm-chart-test
     urls:
     - https://github.com/phoenix086/heapcon-chartmuseum/helm-chart-test-0.1.0.tgz
     version: 0.1.0
-generated: 2019-09-16T21:34:39.58931+02:00
+generated: 2019-09-17T13:42:42.347506+02:00
